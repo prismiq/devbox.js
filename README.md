@@ -94,3 +94,6 @@ Email: jason@weareprismic.com
 	•	origFetch – Wrapped native fetch for request/response logging
 	•	__DEVBOX_SESSION, __DEVBOX_GET, __DEVBOX_POST, __DEVBOX_FILE – Optional server-side context (PHP integration)
 
+```
+![DevBox Screenshot](./example1.png)
+![DevBox Screenshot](./example2.png)
